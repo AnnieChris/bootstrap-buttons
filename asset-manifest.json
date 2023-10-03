@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/bootstrap-buttons/static/css/main.0eca8728.css",
-    "main.js": "/bootstrap-buttons/static/js/main.a81bdcd9.js",
+    "main.js": "/bootstrap-buttons/static/js/main.fd9d2810.js",
     "static/js/787.d9fe5cd3.chunk.js": "/bootstrap-buttons/static/js/787.d9fe5cd3.chunk.js",
     "static/media/logo.svg": "/bootstrap-buttons/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/bootstrap-buttons/index.html",
     "main.0eca8728.css.map": "/bootstrap-buttons/static/css/main.0eca8728.css.map",
-    "main.a81bdcd9.js.map": "/bootstrap-buttons/static/js/main.a81bdcd9.js.map",
+    "main.fd9d2810.js.map": "/bootstrap-buttons/static/js/main.fd9d2810.js.map",
     "787.d9fe5cd3.chunk.js.map": "/bootstrap-buttons/static/js/787.d9fe5cd3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0eca8728.css",
-    "static/js/main.a81bdcd9.js"
+    "static/js/main.fd9d2810.js"
   ]
 }
