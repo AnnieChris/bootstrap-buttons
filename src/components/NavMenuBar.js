@@ -11,7 +11,6 @@ const NavMenuBar = () => {
                     <Nav className="me-auto">
                         <Nav.Link href="/hovereffects">Hover Effects</Nav.Link>
                         <Nav.Link href="/mouseevents">Mouse Events</Nav.Link>
-
                     </Nav>
                 </Navbar.Collapse>
             </Container>

@@ -1,13 +1,11 @@
 import React from 'react'
 import { Button } from 'react-bootstrap'
-import NavMenuBar from './NavMenuBar'
 import HoverEffects from './HoverEffects'
 import MouseEvents from './MouseEvents'
 
 const Home = () => {
     return (
         <div>
-            <NavMenuBar />
             <Button variant="primary">Primary</Button>{' '}
             <Button variant="secondary">Secondary</Button>{' '}
             <Button variant="success">Success</Button>{' '}

@@ -1,11 +1,9 @@
 import React from 'react'
 import { Button } from 'react-bootstrap'
-import NavMenuBar from './NavMenuBar'
 
 const HoverEffects = () => {
   return (
     <div>
-      <NavMenuBar />
       HoverEffects
       <Button variant="outline-primary">Primary</Button>{' '}
       <Button variant="outline-secondary">Secondary</Button>{' '}
